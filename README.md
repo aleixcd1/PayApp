@@ -1,16 +1,13 @@
-# hello_flutter
+# PayApp
 
-A new Flutter project.
+Enlace al vídeo de la presentación:
+https://www.youtube.com/watch?v=nUjdpO1mTJA
+Enlace alternativo:
+https://clipchamp.com/watch/E6GwFVDmXM4
 
-## Getting Started
+Enlace al repositorio de GitHub:
+https://github.com/aleixcd1/PayApp
 
-This project is a starting point for a Flutter application.
+## Descripción
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+PayApp es una aplicación de gestión de gastos dividos. La aplicación permite a los usuarios crear grupos de gastos y añadir gastos a estos grupos. Los gastos se dividen entre los miembros del grupo y se calcula cuanto debe pagar cada uno. Totalmente realizada en Flutter.
